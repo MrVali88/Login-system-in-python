@@ -1,6 +1,7 @@
 #BD with dictionaries.
 #You can authenticate using email: valentin@yahoo.com and password: Parola1
-#Enjoy! 
+#Enjoy your stay
+#Git Status test comentariu. 
 from argon2 import PasswordHasher
 import json
 import pprint
