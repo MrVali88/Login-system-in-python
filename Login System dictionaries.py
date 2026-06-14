@@ -13,6 +13,12 @@ users_db = {
         "user":"Valentin",
         "password":"$argon2id$v=19$m=65536,t=3,p=4$VsTLYCH1tyT67FlPR92c+g$C4VhE3DkTY/JIEgZbeW+X+X6Zpa52SgDN9l17tETH4Q",
         "status":True},
+    "compania@yahoo.com":{
+        "role":"administrator",
+        "user":"CompaniaX",
+        "password":"",
+        "status":True
+    },
     "beatrice@yahoo.com":{
         "role":"integrator",
         "user":"Beatrice",
